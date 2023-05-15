@@ -1,2 +1,3 @@
 # literacy-project
-Branch for our completed group homework
+
+Group 2's group project
