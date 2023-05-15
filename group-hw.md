@@ -55,7 +55,7 @@ We started off by creating a non exhaustive list of factors that would affect fe
 
 We will aim to get all the datasets cleaned and combined into one table by Friday the 19th. Then we will finish doing statistics and creating visualisations on Friday the 26th. During this time (19th - 26th) we will allocate someone to write the word document overview of the project. We will compile our presentation on the 26th and 27th. 
 
-Our code is being managed via GitHub - we are creating branches for each stage (i.e., a branch of literacy dataset cleaning etc.). Once the branch is complete, we will open a Pull Request so that the code can be checked. The branch will be merged into the main branch  once it has been approved. We are using Jupyter Notebooks to write our code as we can use markdowns to explain in detail how we did our code/why.
+Our code is being managed via GitHub - we are creating branches for each stage (i.e., a branch of literacy dataset cleaning etc.). Once the branch is complete, we will open a Pull Request so that the code can be checked by someone else in the group. The branch will be merged into the main branch  once it has been approved. We are using Jupyter Notebooks to write our code as we can use markdowns to explain in detail how we did our code/why.
 
 Our strengths and weaknesses are listed below:<br>
 
