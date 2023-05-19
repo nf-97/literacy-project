@@ -1,10 +1,10 @@
-Country Name,Country Code,Status,Mean Adult Female Literacy Rate (%),Mean Female Child Marriage Rate (%),Income Level
-Chad,TCD,Lowest,15.379127694,36.452,Low income
-Afghanistan,AFG,Lowest,19.80930996,16.252666666666666,Low income
-Mali,MLI,Lowest,20.47042438,37.23333333333333,Low income
+Country Name,Country Code,Status,Mean Adult Female Literacy Rate (%),Median Female Child Marriage Rate (%),Income Level
+Chad,TCD,Lowest,15.379127694,24.556,Low income
+Afghanistan,AFG,Lowest,19.80930996,16.3,Low income
+Mali,MLI,Lowest,20.47042438,42.1,Low income
 Niger,NER,Lowest,20.5309558852,21.155500000000004,Low income
-Guinea,GIN,Lowest,22.27108803,30.54833333333333,Low income
-Cuba,CUB,Highest,99.76931508333332,15.520666666666664,Upper middle income
+Guinea,GIN,Lowest,22.27108803,28.1,Low income
+Cuba,CUB,Highest,99.76931508333332,12.362,Upper middle income
 Lithuania,LTU,Highest,99.77705891666666,0.15,High income
 Estonia,EST,Highest,99.84984588333332,4.8805,High income
 Latvia,LVA,Highest,99.8585147875,4.8805,High income
