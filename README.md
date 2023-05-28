@@ -19,10 +19,10 @@ This project will look at some key factors that contribute to female literacy ra
 *   Implementation and Execution
 *   Result Reporting
 *   Conclusion
-*   [View document](document link)
+*   [View document](https://github.com/nf-97/literacy-project/blob/to-be-marked/other-project-docs/Project%20Report%20-%20Female%20Literacy.docx)
 
 2.  Project activiy log
-*   [View document](document link)
+*   [View document](https://github.com/nf-97/literacy-project/blob/to-be-marked/other-project-docs/Project%20Activity%20Log%20(Female%20Literacy).xlsx)
 
 3.  Adding, cleaning and visualising datasets <br>
 
